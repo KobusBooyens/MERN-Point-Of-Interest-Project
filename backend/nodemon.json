@@ -1,0 +1,11 @@
+{
+    "env": {
+        "DB_USER": "kobusb",
+        "DB_PASSWORD": "GdTRoFiej8hwVx3z",
+        "DB_NAME": "placesDev",
+        "PORT": 5000,
+        "API_KEY":"AIzaSyCEwrnJp4MS4HRtg0u3KeLLe5r-h5XWtOE",
+        "GOOGLE_GEOCODE_URL":"https://maps.googleapis.com/maps/api/geocode/json?address=[INSERT_ADDRESS]&key=[INSERT_APIKEY]",
+        "JWT_KEY": "super!super!super!!!secret!"
+    }
+}
